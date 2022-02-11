@@ -1,0 +1,56 @@
+/* 新闻列表右边部分 */
+/* 上边新闻 */
+#newsList .newscontent .right {
+    width: 910px;
+    margin-left: 14px;
+    margin-bottom: 90px;
+}
+
+#newsList .newscontent .right .top div {
+    padding-bottom: 15px;
+    border-bottom: 2px solid #eee;
+    padding-top: 20px;
+}
+
+#newsList .newscontent .right h1 {
+    font-size: 15px;
+    line-height: 30px;
+    color: #606369;
+    font-weight: 700;
+}
+
+#newsList .newscontent .right span {
+    font-size: 12px;
+    line-height: 24px;
+    color: #a5a5b1;
+}
+
+#newsList .newscontent .right p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #818388;
+}
+
+/* 下方按钮 */
+#newsList .right .bottom {
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#newsList .right .bottom span {
+    font-size: 14px;
+    color: #19191a;
+    margin-right: 10px;
+}
+
+#newsList .right .bottom button {
+    border: 1px solid #cccccc;
+    background: #fff;
+    height: 25px;
+}
+
+#newsList .right .bottom .btn1 {
+    border: 0 solid #000;
+    color: #f00;
+}

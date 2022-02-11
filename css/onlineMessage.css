@@ -1,0 +1,43 @@
+/* 在线留言右边部分 */
+#onlineMessage .content .right {
+    width: 800px;
+    margin-left: 14px;
+    margin-bottom: 90px;
+    padding-top: 10px;
+}
+
+#onlineMessage .content .right h1 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 38px;
+    color: #3f3e45;
+    margin-bottom: 20px;
+}
+
+#onlineMessage .content .right span {
+    color: red;
+}
+
+#onlineMessage .content .right input,
+#onlineMessage .content .right textarea {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#onlineMessage .content .right .input1 {
+    width: 800px;
+    height: 40px;
+}
+
+#onlineMessage .content .right textarea {
+    height: 75px;
+    width: 800px;
+}
+
+#onlineMessage .content .right button {
+    height: 45px;
+    width: 805px;
+    background: #21bcd8;
+    color: #fff;
+    border: 0 solid #000;
+}
